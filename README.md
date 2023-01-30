@@ -1,16 +1,7 @@
-# job_search_challenge
+# Job search challenge
 
-A new Flutter project.
+Flutter ui about job search app.
 
-## Getting Started
+## Example
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/Maikzen/search_job_challenge/blob/main/job_search.gif" width="250" title="Animation beers"/><br><p><a href="https://www.pinterest.es/pin/308426274493954961/" target="_blank">Inspired by</a></p>
